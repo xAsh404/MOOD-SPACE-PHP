@@ -48,7 +48,7 @@ PAGINE:
 TECNOLOGIE UTILIZZATE:
 
 - PHP per la logica server-side
-- MySQL (MariaDB) per il salvataggio dei dati
+- MySQL per il salvataggio dei dati
 - CSS per grafica e layout
 - Flexbox per il layout delle card nella home
 - GIF animate per gli sfondi delle pagine
